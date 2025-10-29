@@ -1,0 +1,17 @@
+# Core UI framework for your dashboard
+streamlit==1.51.0
+
+# Data manipulation and lookup table support
+pandas==2.3.3
+
+# Optional: used for numerical operations (if you expand diagnostics)
+numpy==2.3.4
+
+# Optional: used for system-level info in diagnostics tab
+platformdirs==4.2.0
+
+# Optional: used for Git integration or version tracking (if added later)
+gitpython==3.1.45
+
+# Optional: used for JSON schema validation (if you add config validation)
+jsonschema==4.25.1
