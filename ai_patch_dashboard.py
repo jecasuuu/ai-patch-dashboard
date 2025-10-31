@@ -153,3 +153,4 @@ elif selected_tab == "System Diagnostics":
 
     diagnostics_text = generate_diagnostics_report()
     st.download_button("📥 Download Diagnostics Report", diagnostics_text, file_name="diagnostics_report.txt")
+    # Final version v1.0 — ready for deployment
